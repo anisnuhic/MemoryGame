@@ -1,0 +1,14 @@
+/home/anis/anis_nuhic_21061/app/bin/Debug/net7.0/app.deps.json
+/home/anis/anis_nuhic_21061/app/bin/Debug/net7.0/app.runtimeconfig.json
+/home/anis/anis_nuhic_21061/app/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/anis/anis_nuhic_21061/app/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/home/anis/anis_nuhic_21061/app/obj/Debug/net7.0/app.AssemblyInfo.cs
+/home/anis/anis_nuhic_21061/app/obj/Debug/net7.0/app.csproj.CopyComplete
+/home/anis/anis_nuhic_21061/app/obj/Debug/net7.0/app.genruntimeconfig.cache
+/home/anis/Desktop/anis_nuhic_21061/app/bin/Debug/net7.0/app.deps.json
+/home/anis/Desktop/anis_nuhic_21061/app/bin/Debug/net7.0/app.runtimeconfig.json
+/home/anis/Desktop/anis_nuhic_21061/app/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/anis/Desktop/anis_nuhic_21061/app/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/home/anis/Desktop/anis_nuhic_21061/app/obj/Debug/net7.0/app.AssemblyInfo.cs
+/home/anis/Desktop/anis_nuhic_21061/app/obj/Debug/net7.0/app.csproj.CopyComplete
+/home/anis/Desktop/anis_nuhic_21061/app/obj/Debug/net7.0/app.genruntimeconfig.cache

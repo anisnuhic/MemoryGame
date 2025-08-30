@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/anis/Desktop/anis_nuhic_21061/app/app.csproj": {}
+  },
+  "projects": {
+    "/home/anis/Desktop/anis_nuhic_21061/app/app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/anis/Desktop/anis_nuhic_21061/app/app.csproj",
+        "projectName": "app",
+        "projectPath": "/home/anis/Desktop/anis_nuhic_21061/app/app.csproj",
+        "packagesPath": "/home/anis/.nuget/packages/",
+        "outputPath": "/home/anis/Desktop/anis_nuhic_21061/app/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/anis/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Elmish": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Fable.Elmish.React": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Feliz": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+/home/anis/anis_nuhic_21061/app/bin/Release/net7.0/app.deps.json
+/home/anis/anis_nuhic_21061/app/bin/Release/net7.0/app.runtimeconfig.json
+/home/anis/anis_nuhic_21061/app/obj/Release/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/anis/anis_nuhic_21061/app/obj/Release/net7.0/app.AssemblyInfoInputs.cache
+/home/anis/anis_nuhic_21061/app/obj/Release/net7.0/app.AssemblyInfo.cs
+/home/anis/anis_nuhic_21061/app/obj/Release/net7.0/app.genruntimeconfig.cache

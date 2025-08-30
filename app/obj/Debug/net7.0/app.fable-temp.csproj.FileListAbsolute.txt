@@ -1,0 +1,7 @@
+/home/anis/Desktop/funkcionalno/anis_nuhic_21061/app/bin/Debug/net7.0/app.fable-temp.deps.json
+/home/anis/Desktop/funkcionalno/anis_nuhic_21061/app/bin/Debug/net7.0/app.fable-temp.runtimeconfig.json
+/home/anis/Desktop/funkcionalno/anis_nuhic_21061/app/obj/Debug/net7.0/app.fable-temp.GeneratedMSBuildEditorConfig.editorconfig
+/home/anis/Desktop/funkcionalno/anis_nuhic_21061/app/obj/Debug/net7.0/app.fable-temp.AssemblyInfoInputs.cache
+/home/anis/Desktop/funkcionalno/anis_nuhic_21061/app/obj/Debug/net7.0/app.fable-temp.AssemblyInfo.cs
+/home/anis/Desktop/funkcionalno/anis_nuhic_21061/app/obj/Debug/net7.0/app.fable-temp.csproj.CopyComplete
+/home/anis/Desktop/funkcionalno/anis_nuhic_21061/app/obj/Debug/net7.0/app.fable-temp.genruntimeconfig.cache
